@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+}
+
+#pl {
+  position: fixed;
+  left: 5%;
+  /* right: n%; */
+  bottom: 2%;
+  /* top: n%; */
+  color: #c7d86a;
+  text-decoration: none;
+  
+  font-size: 2rem;
+  /* font-size: 32px; 1rem=16px */ 
+  /* font-family: 'Times New Roman', Times, serif; */
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  /* font-weight: 300; */
+  font-style: italic;
+  /* z-index: 1; */
+}
